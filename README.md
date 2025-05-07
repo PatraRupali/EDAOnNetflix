@@ -108,16 +108,6 @@ The dataset provides metadata about Netflix's content library.
 
 ---
 
-## 🧾 Repository Structure
-
-| File | Description |
-|------|-------------|
-| [`Netflix_Datacleaning.ipynb`](<PASTE_LINK_HERE>) | Data cleaning process |
-| [`Netflix_cleaned_data.csv`](<PASTE_LINK_HERE>) | Cleaned Netflix dataset |
-| [`EDA on Netflix.ipynb`](<PASTE_LINK_HERE>) | Final exploratory data analysis notebook |
-
----
-
 ## ✅ Status
 
 Project Completed ✔️  
