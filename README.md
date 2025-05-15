@@ -148,9 +148,9 @@ The dataset provides metadata about Netflix's content library.
 |-------------|----------------------------|----------------------------------|
 | 🇺🇸 USA      | Dramas, Comedies, Docs     | Comedies, Kids, Docuseries       |
 | 🇮🇳 India    | International, Dramas      | TV Dramas, International Shows   |
-| 🇬🇧 UK       | Documentaries, Dramas      | British TV, Documentaries        |
+| UK UK       | Documentaries, Dramas      | British TV, Documentaries        |
 | 🇯🇵 Japan    | Anime, Action              | Anime, International/Korean TV   |
-| 🇰🇷 S. Korea | Comedies, Dramas           | Romantic K-Dramas                |
+| SK S. Korea | Comedies, Dramas           | Romantic K-Dramas                |
 | 🇨🇦 Canada   | Anime, Documentaries       | Anime Series, Kids’ TV           |
 
 ➡️ *Country-specific preferences strongly shape genre popularity and casting.*
