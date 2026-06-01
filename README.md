@@ -1,10 +1,21 @@
 # 📺 Netflix Data Analysis
 
+
+## 🔧 Tech Stack
+| Tool | Purpose |
+|---|---|
+| Python | Data Analysis |
+| Pandas | Data Manipulation |
+| Matplotlib & Seaborn | Visualization |
+| Jupyter Notebook | Development Environment |
+| Kaggle | Data Source |
+
 ## 📌 About Netflix
 
 Netflix is one of the most popular video streaming platforms, with over **222 million subscribers** globally (as of mid-2021). It offers a vast catalog of **10,000+ TV shows and movies** from various countries. This dataset includes detailed information such as cast, directors, ratings, release year, duration, genres, and more.
 
 ---
+
 
 ## 🎯 Business Problem
 
